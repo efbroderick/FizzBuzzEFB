@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintNumbers.iml" filepath="$PROJECT_DIR$/PrintNumbers.iml" />
     </modules>
   </component>
